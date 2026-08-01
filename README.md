@@ -2,13 +2,13 @@
 
 Robin Star Rail is a free, open-source animated pet for Codex.
 
-![Robin contact sheet](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/contact-sheet.png?v=20260801-row4-row5-repair)
+![Robin contact sheet](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/contact-sheet.png?v=20260802-jumping-saturation-v2)
 
-![Robin look directions](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/look-directions.png?v=20260801-row4-row5-repair)
+![Robin look directions](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/look-directions.png?v=20260802-jumping-saturation-v2)
 
 ## 中文说明
 
-Robin Star Rail 是一个免费开源的 Codex 动态宠物。
+Robin Star Rail 是一个免费、开源的 Codex 动态宠物。
 
 安装方法：把 `pets/robin` 目录里的 `pet.json` 和 `spritesheet.webp` 复制到你的 Codex 宠物目录，然后重启 Codex 并选择 `Robin`。
 
@@ -27,6 +27,8 @@ cp pets/robin/* ~/.codex/pets/robin/
 ```
 
 ## English
+
+Robin Star Rail is a Codex-compatible v2 animated pet. It includes the standard action rows and 16 look-direction cells.
 
 ## Install
 
@@ -56,9 +58,9 @@ cp pets/robin/* ~/.codex/pets/robin/
 
 ## Latest Sync
 
-- Color-loss repair synced: `2026-08-01`
+- Jumping saturation repair synced: `2026-08-02`
 - Published spritesheet: `pets/robin/spritesheet.webp`
-- Spritesheet SHA-256: `EA1632DFFB524E57D7205583BFEB7C86C197FFDD9DB89C57A89A6AA6F4F264C1`
+- Spritesheet SHA-256: `02D33FF1F7F752B28843BD261830422554DC900A04F61CC4AA0EA995BC3A90E7`
 - Validation target: published WebP package
 - Validation status: passed, no errors, no warnings
 
