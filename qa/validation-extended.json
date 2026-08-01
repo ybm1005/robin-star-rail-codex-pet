@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "file": "C:\\Users\\ybm\\Documents\\robin pet 2\\output\\robin-pet-final\\package-run\\final\\spritesheet-extended.png",
-  "format": "PNG",
+  "file": "pets/robin/spritesheet.webp",
+  "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
   "rows": 11,
