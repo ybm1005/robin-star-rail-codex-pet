@@ -22,6 +22,6 @@
 - [x] Confirm the public repository name: `robin-star-rail-codex-pet`.
 - [x] Confirm the license choice: CC BY 4.0.
 - [x] Confirm the GitHub account or organization: `YBM1005`.
-- [ ] Create the GitHub repository.
-- [ ] Push the local repository to GitHub.
+- [x] Create the GitHub repository.
+- [x] Push the local repository to GitHub.
 - [ ] Create the first release, recommended tag: `v1.0.0`.
