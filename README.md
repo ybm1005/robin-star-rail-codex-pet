@@ -2,9 +2,9 @@
 
 Robin Star Rail is a free, open-source animated pet for Codex.
 
-![Robin contact sheet](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/contact-sheet.png?v=20260801-color-loss-fix)
+![Robin contact sheet](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/contact-sheet.png?v=20260801-row4-row5-repair)
 
-![Robin look directions](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/look-directions.png?v=20260801-color-loss-fix)
+![Robin look directions](https://raw.githubusercontent.com/ybm1005/robin-star-rail-codex-pet/main/preview/look-directions.png?v=20260801-row4-row5-repair)
 
 ## 中文说明
 
@@ -58,7 +58,7 @@ cp pets/robin/* ~/.codex/pets/robin/
 
 - Color-loss repair synced: `2026-08-01`
 - Published spritesheet: `pets/robin/spritesheet.webp`
-- Spritesheet SHA-256: `1B8344CDC62ED05162CEF50B27CF4BD5EC3033BF9F6DF853703A51F7A3B7EB71`
+- Spritesheet SHA-256: `EA1632DFFB524E57D7205583BFEB7C86C197FFDD9DB89C57A89A6AA6F4F264C1`
 - Validation target: published WebP package
 - Validation status: passed, no errors, no warnings
 
