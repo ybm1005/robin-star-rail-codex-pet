@@ -1,0 +1,9 @@
+node_modules/
+output/
+tools/
+robin.png
+rrobin.mp4
+*.zip
+*.tmp
+.DS_Store
+Thumbs.db

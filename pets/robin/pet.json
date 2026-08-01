@@ -1,0 +1,7 @@
+{
+  "id": "robin",
+  "displayName": "Robin",
+  "description": "A blue-haired chibi assistant pet with standard actions and look directions.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
